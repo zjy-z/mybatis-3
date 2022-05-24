@@ -57,5 +57,4 @@ class LruCacheTest {
     assertNull(cache.getObject(0));
     assertNull(cache.getObject(4));
   }
-
 }
